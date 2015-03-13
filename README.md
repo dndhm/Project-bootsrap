@@ -1,2 +1,1 @@
-# Project-bootsrap
-Basic Grunt &amp; Bower framework
+# New Project

@@ -1,0 +1,12 @@
+{
+	"name": "New Project",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "~1.11",
+		"request-animation-frame": "~0.1.2",
+		"jquery-easing": "*",
+		"modernizr": "~2.8.2",
+		"respond": "~1.4.2",
+		"html5shiv": "~3.7.2"
+	}
+}
